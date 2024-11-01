@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for an internship. <br>👯 I’m looking to collaborate on a open-source project.<br>🌱 I am currently learning PyTorch, DSA and OOP<br>💬 Ask me about ML and AI<br>⚡ Fun fact : I am good at CyberSecurity as well
+🔭 Incoming SWE Intern @ Realtor.com. <br>👯 I’m looking to collaborate on a open-source project.<br>🌱 I am currently learning Full Stack development<br>💬 Ask me about ML and AI<br>⚡ Fun fact : I am good at CyberSecurity as well
 
 
 ## 🌐 Socials:
